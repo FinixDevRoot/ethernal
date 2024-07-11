@@ -1,0 +1,37 @@
+table.fixedHeader-floating {
+    background-color: #1d2333;
+}
+table.fixedHeader-floating.no-footer {
+    border-bottom-width: 0;
+}
+table.fixedHeader-locked {
+    position: absolute !important;
+    background-color: #1d2333;
+}
+@media print {
+    table.fixedHeader-floating {
+        display: none;
+    }
+}
+
+/*
+     FILE ARCHIVED ON 22:23:41 Dec 14, 2022 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 08:56:38 Dec 15, 2022.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 184.898
+  exclusion.robots: 0.07
+  exclusion.robots.policy: 0.063
+  cdx.remote: 0.058
+  esindex: 0.009
+  LoadShardBlock: 125.419 (3)
+  PetaboxLoader3.datanode: 138.921 (4)
+  CDXLines.iter: 18.354 (3)
+  load_resource: 100.492
+  PetaboxLoader3.resolve: 48.024
+*/
